@@ -13,6 +13,8 @@ Disrespect is not tolerated. Feel free to [join the Discord server](https://disc
 
 Install the `initiald` package from your distribution repository.
 
+If your distribution does not have the package, consider reaching out to the appropriate maintainers.
+
 TODO: create documentation
 
 ## Features
